@@ -1,0 +1,3 @@
+/opt/cmake_test/call_share/build/CMakeFiles/print_04.dir
+/opt/cmake_test/call_share/build/CMakeFiles/edit_cache.dir
+/opt/cmake_test/call_share/build/CMakeFiles/rebuild_cache.dir
