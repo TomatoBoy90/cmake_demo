@@ -10,3 +10,5 @@
 调用动态链接库
 ### （5）call_third_party_library 
 调用第三方库，这里使用的opencv作为演示
+### （5）tgl
+调用生成的文件（.a/.so），单独放置以供测试
