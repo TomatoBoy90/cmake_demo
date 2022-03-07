@@ -1,0 +1,3 @@
+/opt/cmake_test/call_third_party_library/build/CMakeFiles/read_img.dir
+/opt/cmake_test/call_third_party_library/build/CMakeFiles/edit_cache.dir
+/opt/cmake_test/call_third_party_library/build/CMakeFiles/rebuild_cache.dir

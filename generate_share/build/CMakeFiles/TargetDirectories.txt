@@ -1,0 +1,4 @@
+/opt/cmake_test/generate_share/build/CMakeFiles/print_library.dir
+/opt/cmake_test/generate_share/build/CMakeFiles/print_02.dir
+/opt/cmake_test/generate_share/build/CMakeFiles/edit_cache.dir
+/opt/cmake_test/generate_share/build/CMakeFiles/rebuild_cache.dir

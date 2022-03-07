@@ -1,0 +1,3 @@
+/opt/cmake_test/call_static/build/CMakeFiles/print_03.dir
+/opt/cmake_test/call_static/build/CMakeFiles/edit_cache.dir
+/opt/cmake_test/call_static/build/CMakeFiles/rebuild_cache.dir

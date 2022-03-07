@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/print_02.dir/main.cpp.o -o print_02  -Wl,-rpath,/opt/cmake_test/generate_share/build libprint_library.so 
